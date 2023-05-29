@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+* {
+    color: #080708;
+    font-family: Arial, sans-serif;
+}
+.titulo{ 
+    font-family: 'Times New Roman', serif;
+}
+#education{
+    background-color: aquamarine;
+}
+
+section#education h2{
+    color: crimson;
+}
+a{
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+body{
+    background-color: #87d430;
+}
+ h1{
+    font-family: 'Pangolin', cursive;
+ }
+
+table, section {
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    list-style-position: inside;
+}
+
+
+
+
+input[type=text] ,  textarea {
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: #ffffff;
+    color: #000003;
+}
+
+#foto {
+    border: 1pt solid black;
+    padding: 1.1rem;
+    margin-top: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 2px;
+}
+#section-mapa{
+    text-align: center;
+}
